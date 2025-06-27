@@ -1,5 +1,14 @@
-# unit_testing_w_unittest
+# python_unit_testing
 
-**Unit testing** demonstration in **Python 3**
+Unit testing demo in Python using **unittest**.
 
-Libraries: *unittest*
+Includes:
+
+- Calculator with basic arithmetic  
+- Employee class with properties and API interaction  
+- Unit tests for both, including edge cases  
+- Mocking HTTP requests with `unittest.mock`
+
+## Purpose
+
+Practice unit testing, setup/teardown, and mocking.
