@@ -9,6 +9,6 @@ Includes:
 - Unit tests for both, including edge cases  
 - Mocking HTTP requests with `unittest.mock`
 
-## Purpose
+### Purpose
 
 Practice unit testing, setup/teardown, and mocking.
