@@ -2,7 +2,7 @@
 
 Unit testing demo in Python using **unittest**.
 
-Includes:
+**Includes:**
 
 - Calculator with basic arithmetic  
 - Employee class with properties and API interaction  
