@@ -11,4 +11,4 @@ Unit testing demo in Python using **unittest**.
 
 ### Purpose
 
-Practice unit testing, setup/teardown, and mocking.
+Demonstrate unit testing, setup/teardown, and mocking.
